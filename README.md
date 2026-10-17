@@ -1,4 +1,12 @@
 
+
+<div align="center">
+  <img src="images/github-banner.png" width="100%" alt="DJSanch - Software Developer and Web Development">
+</div>
+
+<br>
+
+
 <div align="center">
 
 # DJSanch
