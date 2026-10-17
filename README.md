@@ -55,25 +55,23 @@ application design, and building useful digital solutions.
 
 ---
 
+
 ## Featured Projects
 
-### Project One — [BigBrosHawaiianGrill](https://big-bros-hawaiian-grill.vercel.app/)
+<div align="center">
 
-A brief overview of the project, its purpose, and the problem it solves.
+<a href="https://big-bros-hawaiian-grill.vercel.app/">
+  <img src="https://image.thum.io/get/width/600/crop/400/noanimate/https://big-bros-hawaiian-grill.vercel.app/" width="32%" alt="BigBrosHawaiianGrill">
+</a>
+<a href="https://jsaromatoc.net.ph/">
+  <img src="https://image.thum.io/get/width/600/crop/400/noanimate/https://jsaromatoc.net.ph/" width="32%" alt="JSAromatoc">
+</a>
+<a href="https://cards-bros2-0.vercel.app/">
+  <img src="https://image.thum.io/get/width/600/crop/400/noanimate/https://cards-bros2-0.vercel.app/" width="32%" alt="CardsBros">
+</a>
 
-**Technologies:** HTML, CSS, JavaScript
+</div>
 
-### Project Two — [JSAromatoc](https://jsaromatoc.net.ph/)
-
-A description of a web application, its key features, and implementation.
-
-**Technologies:** React, JavaScript, CSS
-
-### Project Three — [CardsBros](https://cards-bros2-0.vercel.app/)
-
-A project demonstrating application logic, API integration, or data management.
-
-**Technologies:** Python, API, Database
 
 ---
 
