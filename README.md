@@ -1,16 +1,29 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**DJSanch/DJSanch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Dan Sanchez
 
-Here are some ideas to get you started:
+### Welcome to my GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m **DJSanch**. This is where I share the projects I’m building and the things I’m learning along the way.
+
+[![GitHub](https://img.shields.io/badge/GitHub-DJSanch-181717?style=flat&logo=github&logoColor=white)](https://github.com/DJSanch)
+
+</div>
+
+---
+
+## About
+
+I enjoy making useful things, exploring new ideas, and improving with every project. Take a look around, and feel free to connect through GitHub.
+
+## Selected work
+
+Explore my [repositories](https://github.com/DJSanch?tab=repositories) to see what I’m working on.
+
+---
+
+<div align="center">
+
+*Thanks for stopping by.*
+
+</div>
