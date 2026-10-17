@@ -1,109 +1,101 @@
 
-<!--
-  GitHub Profile README for DJSanch
-  Customize the project links, skills, and social links below.
--->
-
 <div align="center">
 
-# 👋 Hey, I'm DJSanch
+# DJSanch
 
-### Software Developer | Web Development Enthusiast
+### Software Developer | Web Development
 
-Building clean, useful, and user-friendly digital experiences.
+Building practical applications and clean, user-focused digital experiences.
 
-[![GitHub](https://img.shields.io/badge/GitHub-DJSanch-181717?style=for-the-badge&logo=github)](https://github.com/DJSanch)
+[![GitHub](https://img.shields.io/badge/GitHub-DJSanch-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DJSanch)
 
 </div>
 
 ---
 
-## 💫 About Me
+## About Me
 
-- 💻 Passionate about software development and web technologies
-- 🌐 Interested in building responsive, user-friendly websites
-- 🛠️ Enjoy solving problems and learning new technologies
-- 📚 Continuously improving my development skills
-- 🚀 Working toward building practical, real-world projects
+I'm an aspiring software developer interested in web development,
+application design, and building useful digital solutions.
+
+- Focused on developing practical software projects
+- Interested in modern web technologies and responsive design
+- Continuously learning and improving my technical skills
+- Working toward writing clean, maintainable code
 
 ---
 
-## 🧰 Tech Stack
+## Technologies and Tools
 
-### Languages
-<!-- Keep only the languages you know or are learning. -->
+**Languages**
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-181717?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-181717?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-181717?style=flat-square&logo=javascript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-181717?style=flat-square&logo=python&logoColor=white)
 
-### Frameworks & Tools
-<!-- Add frameworks and tools you actually use. -->
+**Frameworks and Tools**
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![React](https://img.shields.io/badge/React-181717?style=flat-square&logo=react&logoColor=white)
+![Git](https://img.shields.io/badge/Git-181717?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-181717?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-<!-- Replace these examples with your actual repositories. -->
+### Project One — [BigBrosHawaiianGrill](https://big-bros-hawaiian-grill.vercel.app/)
 
-### 🔹 Project One — [Project Name](https://github.com/DJSanch)
-A brief description of the project, the problem it solves, and its key features.
+A brief overview of the project, its purpose, and the problem it solves.
 
-**Tech:** HTML · CSS · JavaScript
+**Technologies:** HTML, CSS, JavaScript
 
-### 🔹 Project Two — [Project Name](https://github.com/DJSanch)
-A web application showcasing your development skills, functionality, and design.
+### Project Two — [JSAromatoc](https://jsaromatoc.net.ph/)
 
-**Tech:** React · JavaScript · CSS
+A description of a web application, its key features, and implementation.
 
-### 🔹 Project Three — [Project Name](https://github.com/DJSanch)
-A practical project demonstrating problem-solving, application logic, or API integration.
+**Technologies:** React, JavaScript, CSS
 
-**Tech:** Python · API · Database
+### Project Three — [CardsBros](https://cards-bros2-0.vercel.app/)
+
+A project demonstrating application logic, API integration, or data management.
+
+**Technologies:** Python, API, Database
 
 ---
 
-## 📊 GitHub Overview
+## GitHub Statistics
 
 <div align="center">
 
-![GitHub Profile Views](https://komarev.com/ghpvc/?username=DJSanch&style=flat-square&color=blueviolet)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DJSanch&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DJSanch&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=8B949E)
 
 </div>
 
 ---
 
-## 🎯 Current Goals
+## Current Goals
 
-- [ ] Build and publish more web development projects
-- [ ] Improve responsive design and accessibility
-- [ ] Practice writing clean, maintainable code
-- [ ] Learn more about APIs, databases, and deployment
-- [ ] Contribute to open-source projects
+- Build and publish practical development projects
+- Improve responsive design and accessibility
+- Write clean, maintainable, and reusable code
+- Learn more about APIs, databases, and deployment
+- Contribute to open-source projects
 
 ---
 
-## 🤝 Let's Connect
+## Connect
 
-If you're interested in development, collaboration, or sharing ideas, feel free to connect!
-
-- 💻 GitHub: [@DJSanch](https://github.com/DJSanch)
-- 🌐 Portfolio: [Add your portfolio URL]
-- 💼 LinkedIn: [Add your LinkedIn URL]
-- 📧 Email: [Add your public contact email]
+- GitHub: [DJSanch](https://github.com/DJSanch)
+- Portfolio: [https://www.danielsanchez.dev/](PORTFOLIO_URL)
+- LinkedIn: [https://www.linkedin.com/in/daniel-sanchez-8110b2252/?isSelfProfile=true](LINKEDIN_URL)
+- Email: [danieljohnhenrickd.sanchez@gmail.com](mailto:YOUR_EMAIL)
 
 ---
 
 <div align="center">
 
-### *Code. Learn. Build. Repeat.* ⚡
+**Building. Learning. Improving.**
 
 </div>
