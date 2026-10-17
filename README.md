@@ -3,7 +3,7 @@
 <div align="center">
   <img
     src="images/cat.gif"
-    width="50%"
+    width="30%"
     alt="DJSanch Animated Developer Banner"
   >
 </div>
