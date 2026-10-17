@@ -1,7 +1,11 @@
 
 
 <div align="center">
-  <img src="images/github-banner.png" width="100%" alt="DJSanch - Software Developer and Web Development">
+  <img
+    src="images/cat.gif"
+    width="100%"
+    alt="DJSanch Animated Developer Banner"
+  >
 </div>
 
 <br>
