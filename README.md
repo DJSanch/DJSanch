@@ -61,13 +61,13 @@ application design, and building useful digital solutions.
 <div align="center">
 
 <a href="https://big-bros-hawaiian-grill.vercel.app/">
-  <img src="https://image.thum.io/get/width/600/crop/400/noanimate/https://big-bros-hawaiian-grill.vercel.app/" width="32%" alt="BigBrosHawaiianGrill">
+  <img src="https://image.thum.io/get/width/600/crop/400/noanimate/https://big-bros-hawaiian-grill.vercel.app/" width="100%" alt="BigBrosHawaiianGrill">
 </a>
 <a href="https://jsaromatoc.net.ph/">
-  <img src="https://image.thum.io/get/width/600/crop/400/noanimate/https://jsaromatoc.net.ph/" width="32%" alt="JSAromatoc">
+  <img src="https://image.thum.io/get/width/600/crop/400/noanimate/https://jsaromatoc.net.ph/" width="100%" alt="JSAromatoc">
 </a>
 <a href="https://cards-bros2-0.vercel.app/">
-  <img src="https://image.thum.io/get/width/600/crop/400/noanimate/https://cards-bros2-0.vercel.app/" width="32%" alt="CardsBros">
+  <img src="https://image.thum.io/get/width/600/crop/400/noanimate/https://cards-bros2-0.vercel.app/" width="100%" alt="CardsBros">
 </a>
 
 </div>
