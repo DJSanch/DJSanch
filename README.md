@@ -99,7 +99,7 @@ application design, and building useful digital solutions.
 
 - GitHub: [DJSanch](https://github.com/DJSanch)
 - Portfolio: [https://www.danielsanchez.dev/](PORTFOLIO_URL)
-- LinkedIn: [https://www.linkedin.com/in/daniel-sanchez-8110b2252/?isSelfProfile=true](LINKEDIN_URL)
+- LinkedIn: [https://www.linkedin.com/in/daniel-sanchez-8110b2252/](LINKEDIN_URL)
 - Email: [danieljohnhenrickd.sanchez@gmail.com](mailto:YOUR_EMAIL)
 
 ---
