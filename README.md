@@ -98,9 +98,9 @@ application design, and building useful digital solutions.
 ## Connect
 
 - GitHub: [DJSanch](https://github.com/DJSanch)
-- Portfolio: [https://www.danielsanchez.dev/](PORTFOLIO_URL)
-- LinkedIn: [https://www.linkedin.com/in/daniel-sanchez-8110b2252/](LINKEDIN_URL)
-- Email: [danieljohnhenrickd.sanchez@gmail.com](mailto:YOUR_EMAIL)
+- Portfolio: [https://www.danielsanchez.dev/](https://www.danielsanchez.dev/)
+- LinkedIn: [https://www.linkedin.com/in/daniel-sanchez-8110b2252/](https://www.linkedin.com/in/daniel-sanchez-8110b2252/)
+- Email: [danieljohnhenrickd.sanchez@gmail.com](mailto:danieljohnhenrickd.sanchez@gmail.com)
 
 ---
 
